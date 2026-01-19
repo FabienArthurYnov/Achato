@@ -1,0 +1,15 @@
+[submodule "Achato-auth"]
+	path = Achato-auth
+	url = https://github.com/FabienArthurYnov/Achato-auth
+[submodule "Achato-castle"]
+	path = Achato-castle
+	url = https://github.com/FabienArthurYnov/Achato-castle
+[submodule "Achato-favorite"]
+	path = Achato-favorite
+	url = https://github.com/FabienArthurYnov/Achato-favorite
+[submodule "Achato-file"]
+	path = Achato-file
+	url = https://github.com/FabienArthurYnov/Achato-file
+[submodule "Achato-purchase"]
+	path = Achato-purchase
+	url = https://github.com/FabienArthurYnov/Achato-purchase
