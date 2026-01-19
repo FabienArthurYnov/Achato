@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Achato-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Achato-castle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Achato-favorite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Achato-file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Achato-purchase" vcs="Git" />
   </component>
 </project>
