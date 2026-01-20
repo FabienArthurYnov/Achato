@@ -1,0 +1,27 @@
+{
+  "name": "achato",
+  "version": "1.0.0",
+  "description": "Monorepo Achato - Microservices pour la gestion de châteaux",
+  "main": "index.js",
+  "scripts": {
+    "submodule:init": "git submodule update --init --recursive",
+    "submodule:update": "git submodule update --remote --merge",
+    "Castle Start": "cd Achato-castle && npm run dev",
+    "File Start": "cd Achato-file && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienArthurYnov/Achato.git"
+  },
+  "keywords": ["microservices", "chateaux", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FabienArthurYnov/Achato/issues"
+  },
+  "homepage": "https://github.com/FabienArthurYnov/Achato#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
