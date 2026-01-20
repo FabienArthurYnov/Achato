@@ -7,7 +7,7 @@
     "submodule:init": "git submodule update --init --recursive",
     "submodule:update": "git submodule update --remote --merge",
     "Castle Start": "cd Achato-castle && npm run dev",
-    "Auth Start": "cd Achato-auth && npm run dev",
+    "Auth Start": "cd Achato-auth && npm start",
     "File Start": "cd Achato-file && npm run dev"
   },
   "repository": {
