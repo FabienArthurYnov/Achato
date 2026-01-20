@@ -3,6 +3,7 @@ Pour mettre a jours les submodules. :
 git submodule update --init --recursive
 ```
 
+```md
 Frontend ──► Achato-auth (4001) ──► JWT Token
 │
 ▼
@@ -13,3 +14,4 @@ Achato-castle   Achato-file
 │             │
 └─────────────┘
 Service Token (interne)
+```
