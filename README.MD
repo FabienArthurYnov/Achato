@@ -4,7 +4,7 @@ git submodule update --init --recursive
 ```
 
 ```md
-Frontend ──► Achato-auth (4001) ──► JWT Token
+Frontend ──► Achato-auth (3000) ──► JWT Token
 │
 ▼
 ┌──────┴──────┐

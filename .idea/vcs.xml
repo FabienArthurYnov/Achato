@@ -7,6 +7,5 @@
     <mapping directory="$PROJECT_DIR$/Achato-favorite" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Achato-file" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Achato-purchase" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SPOTIFY_FILE" vcs="Git" />
   </component>
 </project>
