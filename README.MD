@@ -1,3 +1,5 @@
+Ceci est le module princpal du projet, il contient les submodules Auth, Castle et File.
+
 Pour mettre a jours les submodules. :
 ```bash
 git submodule update --init --recursive
