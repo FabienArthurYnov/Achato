@@ -35,6 +35,11 @@ Service Token (interne)
 
 Chaque submodules possède son readme, voici comment lancer chaque microservice :
 
+Dans chaque service :
+```bash
+npm install
+```
+
 - Castle Start: 
 ```bash
 cd Achato-castle && npm run dev
