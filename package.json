@@ -8,13 +8,18 @@
     "submodule:update": "git submodule update --remote --merge",
     "Castle Start": "cd Achato-castle && npm run dev",
     "Auth Start": "cd Achato-auth && npm start",
-    "File Start": "cd Achato-file && npm run dev"
+    "File Start": "cd Achato-file && npm run dev",
+    "format": "prettier --write \"**/*.{js,ts,json,md}\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FabienArthurYnov/Achato.git"
   },
-  "keywords": ["microservices", "chateaux", "nodejs"],
+  "keywords": [
+    "microservices",
+    "chateaux",
+    "nodejs"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
@@ -23,6 +28,8 @@
   },
   "homepage": "https://github.com/FabienArthurYnov/Achato#readme",
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
   }
 }
